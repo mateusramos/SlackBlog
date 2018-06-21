@@ -1,2 +1,2 @@
 # SlackBlog
-Blog e rede social responsiva que vai ter como seu princiapl foco SlackLine
+Blog e rede social responsiva que vai ter como seu principal foco SlackLine
